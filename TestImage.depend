@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1616419320 source:c:\users\admin\documents\testimage\baseobject.cpp
+	"BaseObject.h"
+	<iostream>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstring>
+
+1616490538 c:\users\admin\documents\testimage\baseobject.h
+	<iostream>
+	"Head.h"
+
+1619672491 source:c:\users\admin\documents\testimage\main.cpp
+	<iostream>
+	"SDL2/SDL.h"
+	"Head.h"
+	"BaseObject.h"
+	"Square.h"
+	<vector>
+	<ctime>
+	<cstring>
+	<SDL2/SDL_ttf.h>
+	"TextObject.h"
+	"SDL2/SDL_mixer.h"
+
+1620231479 source:c:\users\admin\documents\testimage\square.cpp
+	"Square.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<map>
+
+1618461399 c:\users\admin\documents\testimage\square.h
+	"BaseObject.h"
+	"Head.h"
+	<cstdlib>
+	<ctime>
+	<cstring>
+
+1619445248 c:\users\admin\documents\testimage\head.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1616490430 source:c:\users\admin\documents\testimage\head.cpp
+	"Head.h"
+
+1618459478 source:c:\users\admin\documents\testimage\truthsquare.cpp
+
+1618206450 source:c:\users\admin\documents\testimage\player.cpp
+
+1619440526 source:c:\users\admin\documents\testimage\text_object.cpp
+	"Text_Object.h"
+
+1619440608 c:\users\admin\documents\testimage\text_object.h
+	"Head.h"
+	"BaseObject.h"
+	<SDL2/SDL_ttf.h>
+
+1619442938 source:c:\users\admin\documents\testimage\textobject.cpp
+	"TextObject.h"
+
+1619442970 c:\users\admin\documents\testimage\textobject.h
+	"Head.h"
+	"BaseObject.h"
+	"SDL2/SDL_ttf.h"
+
