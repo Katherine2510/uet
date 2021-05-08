@@ -4,7 +4,7 @@
 Memory Game-  Lật thẻ tương ứng giống nhau.
 Lập trình trên ngôn ngữ C++ và các thư viện SDL.
  
-# CÁC THƯ VIỆN SDL SỰ DỤNG TRONG PROJECT
+# CÁC THƯ VIỆN SDL SỬ DỤNG TRONG PROJECT
 1. SDL2
 2. SDL2_image
 3. SDL_ttf
